@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Jamdar
-- 👀 I’m interested in Data Analytics,Business Analysis,Data Science,Machine Learning
-- 🌱 I’m currently learning Data Science
+- 👀 Here i have all of my Coding Repositories and diffrent projects in Data Analytics,Business Analysis,Data Science,Machine Learning
+
 
 
 
